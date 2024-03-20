@@ -1,2 +1,2 @@
 # my-first-langchain-project
-Q&amp;A chatbot
+ langchain Q&amp;A chatbot
